@@ -1,0 +1,19 @@
+div .one{
+    display: block;
+    background-color: lightskyblue;
+    padding: 15px;
+    border: 25px solid red;
+}
+div .two{
+    display: block;
+    background-color: lightskyblue;
+    padding: 15px;
+    border: 25px solid red;
+    margin: 0 200px;
+}
+div .three{
+    background-color: lightskyblue;
+    padding: 15px;
+    border: 25px solid red;
+    margin: 0 400px;
+} 
